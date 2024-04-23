@@ -1,2 +1,3 @@
 # Projetos-Eventos-UFAC
-# Desenvlvimento da disciplina
+# Desenvolvimento da Disciplina
+# Mudanças
