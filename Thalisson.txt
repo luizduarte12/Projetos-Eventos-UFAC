@@ -1,4 +1,3 @@
 Git: Um sistema de controle de versão distribuído, amplamente utilizado para gerenciar o desenvolvimento de software e rastrear as mudanças feitas nos arquivos ao longo do tempo.
 
-
-Repositório git(Repository): Um repositório Git é onde todos os arquivos e histórico de um projeto são armazenados. Existem repositórios locais (no seu próprio computador) e repositórios remotos (em servidores como GitHub, GitLab, Bitbucket, etc.).
+Git Clone: Copia um repositório Git existente do seu local para o seu computador.
